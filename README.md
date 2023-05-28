@@ -1,2 +1,2 @@
 ﻿# Kaligono Website
-Build using Wordpress
+Built using Wordpress
